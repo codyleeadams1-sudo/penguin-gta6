@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "penguinmod",
+  "version": "${version}",
+  "name": "Penguin Mod",
+  "description": "Adds a penguin mob that spawns naturally in snowy and icy biomes, with a spawn egg in the creative menu.",
+  "authors": [],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "com.penguinmod.PenguinMod" ],
+    "client": [ "com.penguinmod.client.PenguinModClient" ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

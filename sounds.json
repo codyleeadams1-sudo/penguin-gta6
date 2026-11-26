@@ -1,0 +1,34 @@
+{
+  "entity.penguin.ambient": {
+    "sounds": [
+      "penguinmod:entity/penguin/ambient1",
+      "penguinmod:entity/penguin/ambient2",
+      "penguinmod:entity/penguin/ambient3",
+      "penguinmod:entity/penguin/ambient4"
+    ]
+  },
+  "entity.penguin.ambient_baby": {
+    "sounds": [
+      "penguinmod:entity/penguin/baby1",
+      "penguinmod:entity/penguin/baby2"
+    ]
+  },
+  "entity.penguin.hurt": {
+    "sounds": [
+      "penguinmod:entity/penguin/hurt1",
+      "penguinmod:entity/penguin/hurt2"
+    ]
+  },
+  "entity.penguin.death": {
+    "sounds": [
+      "penguinmod:entity/penguin/death"
+    ]
+  },
+  "entity.penguin.step": {
+    "sounds": [
+      { "name": "penguinmod:entity/penguin/step1", "volume": 1.0 },
+      { "name": "penguinmod:entity/penguin/step2", "volume": 1.0 },
+      { "name": "penguinmod:entity/penguin/step3", "volume": 1.0 }
+    ]
+  }
+}
